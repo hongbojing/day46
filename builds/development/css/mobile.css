@@ -1,0 +1,17 @@
+.container {
+  width: 960px;
+}
+.sidebar {
+  width: 37.5%;
+  float: left;
+}
+.content {
+  float: left;
+  width: 57.291667%;
+/*  margin-right: 39.583333%;*/
+  padding: 5%;
+}
+
+
+
+
